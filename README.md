@@ -1,13 +1,13 @@
 
 # **App Name**: Realtime Chat
 
-# Firebase Studio
+## Firebase Studio
 
 This is a NextJS starter in Firebase Studio.
 
 To get started, take a look at src/app/page.tsx.
 
-## Core Features:
+## Core Features
 
 - User Authentication: Secure user authentication via email/password, powered by Firebase Auth.
 - Realtime Chat: Send and receive text messages in real time.
@@ -16,7 +16,7 @@ To get started, take a look at src/app/page.tsx.
 - User Avatars: Choose a default avatar. Every registered user may be assigned a placeholder.
 - Read Status: See visual confirmation when a message has been seen.
 
-## Style Guidelines:
+## Style Guidelines
 
 - Primary color: Deep sky blue (#00BFFF) for a vibrant, modern feel.
 - Background color: Light grayish-blue (#E6F7FF) to complement the primary.
